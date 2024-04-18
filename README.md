@@ -56,8 +56,7 @@ To run the application:
    - Once the application is running, open your web browser.
    - Navigate to [http://localhost:808/hello](http://localhost:808/hello) to see a hello world message.
 
+## ER diagram
 
-
- ## ER diagram ![image](https://github.com/shomanabd/inventory-management-system/assets/103745119/95bc986f-4d58-4311-88f1-4b8b3dc0d16f)
-
+![ER Diagram](https://github.com/shomanabd/inventory-management-system/assets/103745119/95bc986f-4d58-4311-88f1-4b8b3dc0d16f)
 
